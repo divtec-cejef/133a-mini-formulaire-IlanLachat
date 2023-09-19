@@ -76,3 +76,13 @@ label {
     font-weight: bold;
     cursor: pointer;
 }
+
+input {
+    border: 2px solid #2b2d43;
+    padding: .75em;
+    width: 100%;
+    font-family: inherit;
+    font-size: inherit;
+    color: inherit;
+
+}
