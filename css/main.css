@@ -89,6 +89,14 @@ select {
 
 }
 
+input[type="email"]:invalid {
+    border-color: #e74c3c;
+}
+
+input[type="email"]:valid {
+    border-color: darkgreen;
+}
+
 label input {
     display: inline;
     width: auto;
